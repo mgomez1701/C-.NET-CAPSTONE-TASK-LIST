@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\bin\Debug\netcoreapp3.0\CapStone2.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\bin\Debug\netcoreapp3.0\CapStone2.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\bin\Debug\netcoreapp3.0\CapStone2.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\bin\Debug\netcoreapp3.0\CapStone2.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\bin\Debug\netcoreapp3.0\CapStone2.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\bin\Debug\netcoreapp3.0\CapStone2.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\obj\Debug\netcoreapp3.0\CapStone2.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\obj\Debug\netcoreapp3.0\CapStone2.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\obj\Debug\netcoreapp3.0\CapStone2.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\obj\Debug\netcoreapp3.0\CapStone2.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CapStone2\CapStone2\CapStone2\obj\Debug\netcoreapp3.0\CapStone2.pdb
